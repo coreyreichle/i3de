@@ -21,3 +21,4 @@ I was using the i3 spin for Arch, and I thought it'd be nice to have a universal
 * conky
 * xfce4-power-manager
 * pamac-tray
+* hexchat
