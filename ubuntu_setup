@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Need to build these ones...
+# pa-applet
+# i3-gaps
+# bmenu
+
+sudo apt-get update
+
+sudo apt-get install network-manager-gnome ranger dmenu clipit firefox compton scrot pulseaudio pavucontrol nitrogen conky xfce4-power-manager hexchat
