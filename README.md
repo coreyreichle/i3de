@@ -6,19 +6,19 @@ I was using the i3 spin for Arch, and I thought it'd be nice to have a universal
 
 ## Package List
 * i3-gaps
-* nm-applet
+* gnome-network-manager
 * ranger
 * dmenu
 * clipit
 * firefox
 * compton
 * scrot
-* bmenu
+* bmenu (https://github.com/Chrysostomus/bmenu)
 * pulseaudio
-* pa-applet
+* pa-applet (https://github.com/fernandotcl/pa-applet)
 * pavucontrol
 * nitrogen
 * conky
 * xfce4-power-manager
-* pamac-tray
+* ~~pamac-tray~~ (Not using this, as pacman isn't universal)
 * hexchat
